@@ -1,6 +1,6 @@
 const discord = require('discord.js');
 const bot = new discord.Client();
-const token = "MzE0OTA0OTM0ODgzNzg2NzUy.DAC6Hg.Lbn3E1y0kKOLu3-gzrhz9a-CBcc";
+const token = "";
 
 bot.on('ready', () => {
     console.log('Ted-Bot se conectou ao servidor!');
